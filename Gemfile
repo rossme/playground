@@ -30,6 +30,11 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'devise'
 
+# Payment gem
+gem 'simplify', '~> 1.1.2'
+gem 'figaro'
+
+
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
 gem 'simple_form'
